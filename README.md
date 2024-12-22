@@ -1,20 +1,20 @@
-# ENC NODEJS EASY-MEDIUM-HARD
+# DDOS ZALLMA V2
 
 ![Build Status](https://img.shields.io/travis/username/proyek-luar-biasa.svg)
 ![Coverage](https://img.shields.io/coveralls/username/proyek-luar-biasa.svg)
 
 ## Deskripsi
-Sc ini untuk membantu mengamankan code anda dari para setan record cocok karena setelah di enc code tidak dapat mudah untuk dibaca maupun di recode
+Sc ini untuk ddos kepada suatu website dan sudah saya coba juga bisa kalian lihat saja untuk video tutorial di youtube @zallmacode
 
 ## Daftar Isi
-- [ENCJS](#fitur)
-- [MASUKAN NAME FILE JS BOT YANG AKAN DI ENC DI DALAM TERMUXNYA NANTI](#contoh-penggunaan)
+- [DDOS](#fitur)
+- [MASUKAN URL TARGET UNTUK MEMULAI DDOS](#contoh-penggunaan)
 - [Kontribusi](#kontribusi)
 - [Lisensi](#lisensi)
 - [@nandazzz01 - Telegram](#kontak)
 
 ## Fitur
-- 🔧 ENC JS.
+- 🔧 DDOS.
 - 🚀 Donasi.
 - 💡 Exit.
 
@@ -27,22 +27,17 @@ Ikuti langkah-langkah berikut untuk menginstal dan menjalankan proyek:
 2. Install:
    ```bash
    pkg install nodejs -y
-3. Install:
-   ```bash
-   pkg install bash -y
 4. Install:
    ```bash
-   pkg install coreutils -y
-5. Install:
-   ```bash
-   pkg install xxd -y
+   npm init -y
+   npm install autocannon axios chalk@4.1.2
 6. Clone repository:
    ```bash
-   https://github.com/zallmacodex/ENC-JS-HARD
+   https://github.com/zallmacodex/DDOS-V2
 7. Run:
    ```bash
-   cd ENC-JS-HARD
+   cd DDOS-V2
 8. Install:
    ```bash
-   bash enczallma.sh
+   node v2.js
    
